@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 [![Stats](https://github-readme-stats.vercel.app/api?username=Zenahr&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Lemme just add that one final refactoring real quick...
+
+<div style="width:100%;height:0;padding-bottom:78%;position:relative;"><iframe src="https://giphy.com/embed/l4Jz3a8jO92crUlWM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/meme-steak-seasoning-l4Jz3a8jO92crUlWM">via GIPHY</a></p>
