@@ -4,3 +4,5 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zenahr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://komarev.com/ghpvc/?username=Zenahr&color=blueviolet)
